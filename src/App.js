@@ -3,15 +3,22 @@ import React from "react";
 
 import "./App.css";
 import Dashboard from "./common/Dashboard";
+import NavComponent from "./common/NavComponent";
+import FooterComponent from "./common/FooterComponent";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <h1 id="centered">React getting started</h1>
-        <Dashboard />
+    <>
+      <header>
+        <NavComponent />
       </header>
-    </div>
+      <main>
+        <Dashboard />
+      </main>
+      <footer>
+        <FooterComponent />
+      </footer>
+    </>
   );
 }
 

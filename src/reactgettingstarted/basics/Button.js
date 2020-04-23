@@ -4,7 +4,8 @@ import Button from 'react-bootstrap/Button';
 const ButtonCounter = (props) => {
     return (
         <div>
-            <Button onClick={props.onClickFunction}>+1</Button>
+            <Button onClick={props.onClickFunction}>+{props.increment}</Button>
+
         </div>
     );
 };
