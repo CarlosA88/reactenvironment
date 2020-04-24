@@ -1,23 +1,44 @@
-main {
+.header {
+  margin: 10px;
+  padding: 20px;
+  font-size: 30px;
+  border: solid #4682b4;
+}
+
+.main {
+  margin: 10px;
+  padding: 20px;
+  height: 100%;
+  text-align: center;
+  border: solid steelblue;
+  font-size: 30px;
+  display: flex;
+  justify-content: center;
+}
+
+.aside {
   margin: 10px;
   padding: 20px;
   text-align: center;
   border: solid steelblue;
-  font-size: 30px;
+  flex-grow: 1;
 }
-header {
-
-}
-
-nav > div {
+.article {
   margin: 10px;
   padding: 20px;
-  font-size: 30px;
   border: solid steelblue;
-
+  flex-grow: 4;
 }
 
-footer {
+@media screen and (max-width: 500px) {
+  .main {
+    flex-direction: column;
+    margin: 10px;
+    padding: 10px;
+  }
+}
+
+.footer {
   border: solid steelblue;
   margin: 10px;
   padding: 20px;

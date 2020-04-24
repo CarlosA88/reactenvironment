@@ -2,20 +2,23 @@ import React from "react";
 // import logo from "./logo.svg";
 
 import "./App.css";
-import Dashboard from "./common/Dashboard";
+import Dashboard from "./reactgettingstarted/basics/Dashboard";
 import NavComponent from "./common/NavComponent";
 import FooterComponent from "./common/FooterComponent";
 
 function App() {
   return (
     <>
-      <header>
+      <header className="header">
         <NavComponent />
       </header>
-      <main>
-        <Dashboard />
+      <main className="main">
+        <aside className="aside">Navigation</aside>
+        <article className="article">
+          <Dashboard />
+        </article>
       </main>
-      <footer>
+      <footer className="footer">
         <FooterComponent />
       </footer>
     </>
