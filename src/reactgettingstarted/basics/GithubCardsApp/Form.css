@@ -1,0 +1,18 @@
+form {
+  border: thin solid #ddd;
+  background-color: #fbfbfb;
+  margin: 10px;
+  padding: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+@media screen and (max-width: 500px) {
+  form {
+    flex-direction: column;
+    margin: 10px;
+    padding: 10px;
+    flex-wrap: wrap;
+  }
+  
+}
