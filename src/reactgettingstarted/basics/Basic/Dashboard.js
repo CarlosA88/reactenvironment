@@ -6,6 +6,8 @@ const Dashboard = () => {
   const [course, setCourse] = useState(0);
   const incrementCounter = (incrementValue) => {
     setCourse(course + incrementValue);
+
+
   };
 
   return (

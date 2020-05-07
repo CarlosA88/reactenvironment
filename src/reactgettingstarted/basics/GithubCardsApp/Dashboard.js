@@ -4,10 +4,15 @@ import './Dashboard.css'
 import testData from "./testData";
 
 class Dashboard extends React.Component {
-    state = {
-      profiles: testData,
-    };
+  state = {
+    profiles: [],
+  };
 
+  addNewProfile = (profileData) => {
+    this.setState((prevState) => ({
+      profiles: [...prevState.profiles, profileData],
+    }));
+  };
     
       render() {
         return (
