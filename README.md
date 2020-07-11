@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-<p><strong>Carlos </strong></p><p><br></p><p><em>Testing MD to HTML</em> </p><p><br></p><p><strong>Thanks</strong></p>
+<p><strong>Carlos </strong></p><p><br></p><p><em>Testing MD to HTML</em> using <a href="https://attacomsian.com/blog/convert-html-to-markdown#" rel="noopener noreferrer" target="_blank">Markdown</a></p><p><br></p><p><strong>Thanks</strong></p>
 
 In the project directory, you can run:
 
