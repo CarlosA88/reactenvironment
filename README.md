@@ -2,14 +2,14 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-<p><strong>Hi!</strong></p><ul><li>I am Carlos and now i am <a href="www.google.com" rel="noopener noreferrer" target="_blank">testing</a></li><li>I am Carlos and now i am <a href="http://localhost:3000/www.google.com" rel="noopener noreferrer" target="_blank">testing</a></li><li>I am Carlos and now i am <a href="http://localhost:3000/www.google.com" rel="noopener noreferrer" target="_blank">testing</a></li><li>I am Carlos and now i am <a href="http://localhost:3000/www.google.com" rel="noopener noreferrer" target="_blank">testing</a></li></ul><p><strong>Thanks</strong></p>
+<p><strong>Hi!</strong></p><ol><li>I am Carlos and now i am <a href="www.google.com" rel="noopener noreferrer" target="_blank">testing</a></li><li>I am Carlos and now i am <a href="http://localhost:3000/www.google.com" rel="noopener noreferrer" target="_blank">testing</a></li><li>I am Carlos and now i am <a href="http://localhost:3000/www.google.com" rel="noopener noreferrer" target="_blank">testing</a></li><li>I am Carlos and now i am <a href="http://localhost:3000/www.google.com" rel="noopener noreferrer" target="_blank">testing</a></li></ol><p><strong>Thanks</strong></p>
 
 **Hi!**
 
-*   I am Carlos and now i am [testing](www.google.com)
-*   I am Carlos and now i am [testing](http://localhost:3000/www.google.com)
-*   I am Carlos and now i am [testing](http://localhost:3000/www.google.com)
-*   I am Carlos and now i am [testing](http://localhost:3000/www.google.com)
+1.  I am Carlos and now i am [testing](www.google.com)
+2.  I am Carlos and now i am [testing](http://localhost:3000/www.google.com)
+3.  I am Carlos and now i am [testing](http://localhost:3000/www.google.com)
+4.  I am Carlos and now i am [testing](http://localhost:3000/www.google.com)
 
 **Thanks**
 
