@@ -6,7 +6,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 **Hi!**
 
-I am Carlos and now i am [testing](www.google.com)
+*   I am Carlos and now i am [testing](www.google.com)
+*   I am Carlos and now i am [testing](http://localhost:3000/www.google.com)
+*   I am Carlos and now i am [testing](http://localhost:3000/www.google.com)
+*   I am Carlos and now i am [testing](http://localhost:3000/www.google.com)
 
 **Thanks**
 
