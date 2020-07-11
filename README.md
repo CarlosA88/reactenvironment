@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-<p><strong>Hi!</strong></p><p>I am Carlos and now i am <a href="www.google.com" rel="noopener noreferrer" target="_blank">testing</a></p><p><strong>Thanks</strong></p>
+<p><strong>Hi!</strong></p><ul><li>I am Carlos and now i am <a href="www.google.com" rel="noopener noreferrer" target="_blank">testing</a></li><li>I am Carlos and now i am <a href="http://localhost:3000/www.google.com" rel="noopener noreferrer" target="_blank">testing</a></li><li>I am Carlos and now i am <a href="http://localhost:3000/www.google.com" rel="noopener noreferrer" target="_blank">testing</a></li><li>I am Carlos and now i am <a href="http://localhost:3000/www.google.com" rel="noopener noreferrer" target="_blank">testing</a></li></ul><p><strong>Thanks</strong></p>
 
 **Hi!**
 
