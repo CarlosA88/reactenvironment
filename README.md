@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-<p>Carlos </p><p><br></p><p>Testing MD to HTML </p><p><br></p><p>Thanks</p>
+<p><strong>Carlos </strong></p><p><br></p><p><em>Testing MD to HTML</em> </p><p><br></p><p><strong>Thanks</strong></p>
 
 In the project directory, you can run:
 
