@@ -17,9 +17,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
   
 
-*   This is a text msn
-*   This is a text msn
-*   This is a text msn
+1.  This is a text msn
+2.  This is a text msn
+3.  This is a text msn
 
   
 
