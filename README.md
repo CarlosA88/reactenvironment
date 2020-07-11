@@ -4,11 +4,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 <h3>Carlos</h3><ul><li><em>Testing MD to HTML using</em>&nbsp;<a href="https://attacomsian.com/blog/convert-html-to-markdown#" rel="noopener noreferrer" target="_blank" style="color: rgb(3, 102, 214); background-color: initial;">Markdown</a></li></ul><h3>Thanks</h3>
 
-**Carlos**
+### Carlos
 
-_Testing MD to HTML using_ [Markdown](https://attacomsian.com/blog/convert-html-to-markdown#)
+*   _Testing MD to HTML using_ [Markdown](https://attacomsian.com/blog/convert-html-to-markdown#)
 
-Thanks
+### Thanks
 
 
 In the project directory, you can run:
